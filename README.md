@@ -1,5 +1,11 @@
 # NestJS Mongoose Admin Site Demo
 
+<p align="center">
+  <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" style="display: block; margin: 0 auto">
+</p>
+
+<h1 align="center"><b>Admin Site ThinkProUIT</b> </h1>
+
 ```json
 npm i @adminjs/express @adminjs/mongoose @adminjs/nestjs adminjs
 ```
